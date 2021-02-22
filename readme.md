@@ -4,7 +4,7 @@
 
 PORT=3000
 
-API_KEY=<Tumblr API Key>
+API_KEY=`<Tumblr API Key>`
 
 API=https://api.tumblr.com/v2/blog/gaixinhchonloc.com/posts/photo
 
